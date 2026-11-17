@@ -1,0 +1,268 @@
+escalation_id,txn_id,umrn,customer_id,partner_bank,npci_return_code,failure_category,assigned_queue,created_at,resolved_at,ticket_status,sla_target_hours,turnaround_hours
+ESC-5001,NACH-20260018,UMRN202600307,CUST-3307,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-26 12:35,2026-10-27 19:40,Resolved,48.0,31.1
+ESC-5002,NACH-20260023,UMRN202600397,CUST-3397,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-26 11:32,2026-09-27 04:34,Resolved,48.0,17.0
+ESC-5003,NACH-20260027,UMRN202600344,CUST-3344,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-22 15:33,2026-08-23 03:00,Resolved,48.0,11.5
+ESC-5004,NACH-20260029,UMRN202600337,CUST-3337,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-31 13:58,2026-09-02 05:22,Resolved,48.0,39.4
+ESC-5005,NACH-20260035,UMRN202600269,CUST-3269,HDFC Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-28 16:14,,Awaiting Customer Action,48.0,35.6
+ESC-5006,NACH-20260036,UMRN202600279,CUST-3279,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-06 14:46,2026-09-08 19:38,Resolved,48.0,52.9
+ESC-5007,NACH-20260039,UMRN202600388,CUST-3388,ICICI Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-16 10:55,2026-10-16 16:18,Resolved,48.0,5.4
+ESC-5008,NACH-20260042,UMRN202600109,CUST-3109,Kotak Mahindra,SL01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-28 16:41,2026-09-29 09:18,Resolved,48.0,16.6
+ESC-5009,NACH-20260045,UMRN202600144,CUST-3144,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-06 17:54,2026-09-08 13:18,Resolved,48.0,43.4
+ESC-5010,NACH-20260063,UMRN202600139,CUST-3139,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-22 15:22,2026-10-23 10:03,Resolved,48.0,18.7
+ESC-5011,NACH-20260070,UMRN202600344,CUST-3344,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-20 11:31,2026-09-21 21:41,Resolved,48.0,34.2
+ESC-5012,NACH-20260072,UMRN202600046,CUST-3046,Yes Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-27 15:10,2026-10-29 01:02,Resolved,48.0,33.9
+ESC-5013,NACH-20260090,UMRN202600307,CUST-3307,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-22 11:27,2026-09-24 09:30,Resolved,48.0,46.0
+ESC-5014,NACH-20260117,UMRN202600046,CUST-3046,Yes Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-28 16:42,2026-09-29 03:22,Resolved,48.0,10.7
+ESC-5015,NACH-20260122,UMRN202600318,CUST-3318,HDFC Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-14 12:41,2026-10-16 04:54,Resolved,48.0,40.2
+ESC-5016,NACH-20260126,UMRN202600389,CUST-3389,ICICI Bank,RR01,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-15 09:59,2026-10-16 12:58,Resolved,48.0,27.0
+ESC-5017,NACH-20260135,UMRN202600344,CUST-3344,ICICI Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-10-19 13:22,2026-10-21 04:06,Resolved,24.0,38.7
+ESC-5018,NACH-20260144,UMRN202600397,CUST-3397,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-16 12:06,2026-09-17 22:25,Resolved,48.0,34.3
+ESC-5019,NACH-20260153,UMRN202600337,CUST-3337,Axis Bank,AC01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-08-19 10:44,2026-08-20 09:51,Resolved,48.0,23.1
+ESC-5020,NACH-20260161,UMRN202600018,CUST-3018,HDFC Bank,SL01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-03 15:36,2026-10-04 15:16,Resolved,48.0,23.7
+ESC-5021,NACH-20260162,UMRN202600144,CUST-3144,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-22 14:29,2026-08-24 12:59,Resolved,48.0,46.5
+ESC-5022,NACH-20260171,UMRN202600279,CUST-3279,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-28 15:12,2026-09-30 12:25,Resolved,48.0,45.2
+ESC-5023,NACH-20260173,UMRN202600188,CUST-3188,Yes Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-09-11 16:41,2026-09-13 04:27,Resolved,24.0,35.8
+ESC-5024,NACH-20260180,UMRN202600287,CUST-3287,Axis Bank,RR01,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-26 11:25,2026-10-26 15:28,Resolved,48.0,4.0
+ESC-5025,NACH-20260183,UMRN202600018,CUST-3018,HDFC Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-02 10:39,2026-10-03 05:15,Resolved,48.0,18.6
+ESC-5026,NACH-20260189,UMRN202600232,CUST-3232,Axis Bank,AC01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-26 14:27,2026-10-27 12:33,Resolved,48.0,22.1
+ESC-5027,NACH-20260198,UMRN202600397,CUST-3397,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-05 16:49,2026-10-07 17:37,Resolved,48.0,48.8
+ESC-5028,NACH-20260202,UMRN202600344,CUST-3344,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-04 14:51,2026-09-05 14:02,Resolved,48.0,23.2
+ESC-5029,NACH-20260207,UMRN202600113,CUST-3113,SBI,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-17 15:23,2026-10-18 15:51,Resolved,48.0,24.5
+ESC-5030,NACH-20260211,UMRN202600134,CUST-3134,HDFC Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-01 18:30,2026-09-01 22:30,Resolved,48.0,4.0
+ESC-5031,NACH-20260216,UMRN202600139,CUST-3139,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-02 16:30,2026-09-04 07:02,Resolved,48.0,38.5
+ESC-5032,NACH-20260230,UMRN202600088,CUST-3088,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-29 13:11,2026-10-01 06:50,Resolved,48.0,41.7
+ESC-5033,NACH-20260233,UMRN202600148,CUST-3148,Kotak Mahindra,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-27 11:29,2026-09-29 05:10,Resolved,48.0,41.7
+ESC-5034,NACH-20260243,UMRN202600287,CUST-3287,Axis Bank,SL01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-08-18 14:20,2026-08-20 02:36,Resolved,48.0,36.3
+ESC-5035,NACH-20260252,UMRN202600389,CUST-3389,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-26 09:32,2026-08-26 20:27,Resolved,48.0,10.9
+ESC-5036,NACH-20260253,UMRN202600144,CUST-3144,Axis Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-08-27 16:55,2026-08-27 19:55,Resolved,24.0,3.0
+ESC-5037,NACH-20260254,UMRN202600110,CUST-3110,Axis Bank,SL01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-16 10:34,2026-09-17 12:24,Resolved,48.0,25.8
+ESC-5038,NACH-20260261,UMRN202600256,CUST-3256,Kotak Mahindra,SL01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-08-22 09:53,2026-08-23 09:56,Resolved,48.0,24.0
+ESC-5039,NACH-20260265,UMRN202600275,CUST-3275,HDFC Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-09-02 12:44,2026-09-04 02:10,Resolved,24.0,37.4
+ESC-5040,NACH-20260270,UMRN202600113,CUST-3113,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-08-27 12:39,2026-08-28 04:59,Resolved,24.0,16.3
+ESC-5041,NACH-20260279,UMRN202600305,CUST-3305,SBI,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-04 12:05,2026-09-04 22:19,Resolved,48.0,10.2
+ESC-5042,NACH-20260297,UMRN202600397,CUST-3397,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-27 15:29,2026-09-28 14:18,Resolved,48.0,22.8
+ESC-5043,NACH-20260299,UMRN202600105,CUST-3105,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-10-12 10:45,2026-10-13 16:40,Resolved,24.0,29.9
+ESC-5044,NACH-20260306,UMRN202600279,CUST-3279,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-23 12:40,2026-09-25 00:26,Resolved,48.0,35.8
+ESC-5045,NACH-20260324,UMRN202600232,CUST-3232,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-23 11:32,2026-10-24 19:22,Resolved,48.0,31.8
+ESC-5046,NACH-20260329,UMRN202600276,CUST-3276,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-09-08 11:39,2026-09-08 18:07,Resolved,24.0,6.5
+ESC-5047,NACH-20260333,UMRN202600047,CUST-3047,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-07 12:24,2026-09-08 01:35,Resolved,48.0,13.2
+ESC-5048,NACH-20260334,UMRN202600328,CUST-3328,HDFC Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-24 10:09,2026-10-25 22:48,Resolved,48.0,36.7
+ESC-5049,NACH-20260345,UMRN202600209,CUST-3209,Yes Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-09-04 15:37,2026-09-04 18:37,Resolved,24.0,3.0
+ESC-5050,NACH-20260350,UMRN202600128,CUST-3128,Axis Bank,SL01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-08-16 13:53,2026-08-18 13:14,Resolved,48.0,47.3
+ESC-5051,NACH-20260351,UMRN202600206,CUST-3206,HDFC Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-29 13:57,2026-08-31 02:34,Resolved,48.0,36.6
+ESC-5052,NACH-20260360,UMRN202600224,CUST-3224,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-06 12:01,2026-10-08 10:40,Resolved,48.0,46.7
+ESC-5053,NACH-20260369,UMRN202600016,CUST-3016,HDFC Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-28 12:59,2026-09-29 15:05,Resolved,48.0,26.1
+ESC-5054,NACH-20260370,UMRN202600208,CUST-3208,Axis Bank,AC01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-27 12:52,2026-09-28 00:19,Resolved,48.0,11.5
+ESC-5055,NACH-20260377,UMRN202600144,CUST-3144,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-30 12:32,2026-08-31 03:04,Resolved,48.0,14.5
+ESC-5056,NACH-20260378,UMRN202600018,CUST-3018,HDFC Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-01 11:05,2026-09-03 01:34,Resolved,48.0,38.5
+ESC-5057,NACH-20260387,UMRN202600053,CUST-3053,ICICI Bank,SL01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-24 12:39,2026-10-25 08:52,Resolved,48.0,20.2
+ESC-5058,NACH-20260396,UMRN202600198,CUST-3198,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-28 10:54,2026-08-29 05:46,Resolved,48.0,18.9
+ESC-5059,NACH-20260398,UMRN202600205,CUST-3205,ICICI Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-10-12 09:28,2026-10-13 15:47,Resolved,24.0,30.3
+ESC-5060,NACH-20260399,UMRN202600298,CUST-3298,SBI,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-08-23 11:57,2026-08-24 22:23,Resolved,48.0,34.4
+ESC-5061,NACH-20260401,UMRN202600305,CUST-3305,SBI,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-04 17:22,2026-09-05 01:03,Resolved,48.0,7.7
+ESC-5062,NACH-20260406,UMRN202600289,CUST-3289,Yes Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-10-03 12:54,2026-10-04 04:16,Resolved,24.0,15.4
+ESC-5063,NACH-20260411,UMRN202600307,CUST-3307,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-23 09:20,2026-10-24 05:55,Resolved,48.0,20.6
+ESC-5064,NACH-20260412,UMRN202600350,CUST-3350,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-10-08 17:45,2026-10-09 02:25,Resolved,24.0,8.7
+ESC-5065,NACH-20260414,UMRN202600307,CUST-3307,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-18 17:07,2026-09-20 03:03,Resolved,48.0,33.9
+ESC-5066,NACH-20260415,UMRN202600137,CUST-3137,ICICI Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-09-06 17:20,2026-09-06 20:20,Resolved,24.0,3.0
+ESC-5067,NACH-20260423,UMRN202600307,CUST-3307,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-23 17:10,2026-08-25 18:35,Resolved,48.0,49.4
+ESC-5068,NACH-20260427,UMRN202600279,CUST-3279,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-13 14:17,2026-09-14 10:57,Resolved,48.0,20.7
+ESC-5069,NACH-20260432,UMRN202600046,CUST-3046,Yes Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-24 15:21,2026-09-26 10:21,Resolved,48.0,43.0
+ESC-5070,NACH-20260433,UMRN202600126,CUST-3126,Axis Bank,SL01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-12 17:04,2026-09-14 03:25,Resolved,48.0,34.3
+ESC-5071,NACH-20260441,UMRN202600305,CUST-3305,SBI,AC01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-08-30 09:41,2026-08-31 04:46,Resolved,48.0,19.1
+ESC-5072,NACH-20260450,UMRN202600287,CUST-3287,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-31 11:43,2026-09-01 20:03,Resolved,48.0,32.3
+ESC-5073,NACH-20260459,UMRN202600046,CUST-3046,Yes Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-10-23 17:12,2026-10-25 11:41,Resolved,24.0,42.5
+ESC-5074,NACH-20260468,UMRN202600397,CUST-3397,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-12 09:05,2026-09-13 11:28,Resolved,48.0,26.4
+ESC-5075,NACH-20260477,UMRN202600232,CUST-3232,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-04 18:09,2026-10-06 07:58,Resolved,48.0,37.8
+ESC-5076,NACH-20260481,UMRN202600198,CUST-3198,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-18 14:46,2026-08-20 15:42,Resolved,48.0,48.9
+ESC-5077,NACH-20260483,UMRN202600389,CUST-3389,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-19 15:43,2026-08-20 07:41,Resolved,48.0,16.0
+ESC-5078,NACH-20260486,UMRN202600271,CUST-3271,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-09-10 12:19,2026-09-11 15:01,Resolved,24.0,26.7
+ESC-5079,NACH-20260490,UMRN202600331,CUST-3331,ICICI Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-27 14:06,2026-09-27 23:37,Resolved,48.0,9.5
+ESC-5080,NACH-20260492,UMRN202600106,CUST-3106,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-09-09 11:30,2026-09-09 22:28,Resolved,24.0,11.0
+ESC-5081,NACH-20260495,UMRN202600389,CUST-3389,ICICI Bank,AC01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-03 17:53,2026-09-04 14:24,Resolved,48.0,20.5
+ESC-5082,NACH-20260504,UMRN202600269,CUST-3269,HDFC Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-22 11:59,2026-10-24 04:17,Resolved,48.0,40.3
+ESC-5083,NACH-20260513,UMRN202600256,CUST-3256,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-15 17:10,2026-08-17 06:18,Resolved,48.0,37.1
+ESC-5084,NACH-20260517,UMRN202600247,CUST-3247,HDFC Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-08-26 11:03,2026-08-28 00:23,Resolved,48.0,37.3
+ESC-5085,NACH-20260522,UMRN202600047,CUST-3047,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-11 14:33,2026-09-13 01:57,Resolved,48.0,35.4
+ESC-5086,NACH-20260526,UMRN202600256,CUST-3256,Kotak Mahindra,RR01,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-11 14:15,2026-09-13 16:03,Resolved,48.0,49.8
+ESC-5087,NACH-20260532,UMRN202600171,CUST-3171,Axis Bank,AC01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-01 13:49,2026-09-02 11:23,Resolved,48.0,21.6
+ESC-5088,NACH-20260539,UMRN202600042,CUST-3042,Axis Bank,AC01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-13 14:34,2026-10-15 13:15,Resolved,48.0,46.7
+ESC-5089,NACH-20260540,UMRN202600350,CUST-3350,SBI,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-08 11:53,2026-10-09 17:12,Resolved,48.0,29.3
+ESC-5090,NACH-20260547,UMRN202600235,CUST-3235,SBI,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-28 15:26,2026-10-29 13:03,Resolved,48.0,21.6
+ESC-5091,NACH-20260549,UMRN202600232,CUST-3232,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-23 17:04,2026-08-25 20:35,Resolved,48.0,51.5
+ESC-5092,NACH-20260552,UMRN202600269,CUST-3269,HDFC Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-02 10:41,2026-10-03 14:19,Resolved,48.0,27.6
+ESC-5093,NACH-20260558,UMRN202600287,CUST-3287,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-11 12:51,2026-10-12 16:03,Resolved,48.0,27.2
+ESC-5094,NACH-20260576,UMRN202600232,CUST-3232,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-22 10:29,2026-08-23 15:39,Resolved,48.0,29.2
+ESC-5095,NACH-20260585,UMRN202600144,CUST-3144,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-09 10:32,2026-10-11 08:18,Resolved,48.0,45.8
+ESC-5096,NACH-20260594,UMRN202600088,CUST-3088,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-23 15:58,2026-10-23 22:15,Resolved,48.0,6.3
+ESC-5097,NACH-20260603,UMRN202600139,CUST-3139,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-11 15:20,2026-10-13 05:31,Resolved,48.0,38.2
+ESC-5098,NACH-20260612,UMRN202600113,CUST-3113,SBI,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-13 11:40,2026-09-15 00:22,Resolved,48.0,36.7
+ESC-5099,NACH-20260619,UMRN202600139,CUST-3139,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-16 12:06,2026-10-17 19:49,Resolved,48.0,31.7
+ESC-5100,NACH-20260621,UMRN202600144,CUST-3144,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-21 14:19,2026-08-22 10:41,Resolved,48.0,20.4
+ESC-5101,NACH-20260622,UMRN202600144,CUST-3144,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-15 16:11,2026-09-16 11:30,Resolved,48.0,19.3
+ESC-5102,NACH-20260630,UMRN202600344,CUST-3344,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-17 14:16,2026-08-19 17:51,Resolved,48.0,51.6
+ESC-5103,NACH-20260639,UMRN202600019,CUST-3019,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-16 13:30,2026-10-17 10:34,Resolved,48.0,21.1
+ESC-5104,NACH-20260646,UMRN202600307,CUST-3307,Kotak Mahindra,SL01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-21 14:40,2026-09-22 00:35,Resolved,48.0,9.9
+ESC-5105,NACH-20260648,UMRN202600256,CUST-3256,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-27 13:46,,Awaiting Customer Action,48.0,38.2
+ESC-5106,NACH-20260650,UMRN202600085,CUST-3085,SBI,SL01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-15 17:55,2026-09-17 05:37,Resolved,48.0,35.7
+ESC-5107,NACH-20260652,UMRN202600271,CUST-3271,SBI,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-06 08:57,2026-09-07 02:11,Resolved,48.0,17.2
+ESC-5108,NACH-20260657,UMRN202600337,CUST-3337,Axis Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-09-09 16:47,2026-09-10 20:27,Resolved,24.0,27.7
+ESC-5109,NACH-20260665,UMRN202600047,CUST-3047,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-11 13:39,2026-09-13 03:32,Resolved,48.0,37.9
+ESC-5110,NACH-20260666,UMRN202600307,CUST-3307,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-02 13:52,2026-09-03 03:40,Resolved,48.0,13.8
+ESC-5111,NACH-20260675,UMRN202600016,CUST-3016,HDFC Bank,AC01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-17 16:35,2026-10-18 12:57,Resolved,48.0,20.4
+ESC-5112,NACH-20260676,UMRN202600064,CUST-3064,Yes Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-09-06 15:36,2026-09-07 22:08,Resolved,24.0,30.5
+ESC-5113,NACH-20260684,UMRN202600047,CUST-3047,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-25 17:38,2026-10-27 01:23,Resolved,48.0,31.7
+ESC-5114,NACH-20260686,UMRN202600088,CUST-3088,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-15 09:27,2026-10-16 19:50,Resolved,48.0,34.4
+ESC-5115,NACH-20260689,UMRN202600320,CUST-3320,Kotak Mahindra,SL01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-08-15 10:15,2026-08-17 07:33,Resolved,48.0,45.3
+ESC-5116,NACH-20260702,UMRN202600053,CUST-3053,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-26 10:56,2026-08-27 21:30,Resolved,48.0,34.6
+ESC-5117,NACH-20260704,UMRN202600305,CUST-3305,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-10-25 14:21,2026-10-26 06:34,Resolved,24.0,16.2
+ESC-5118,NACH-20260709,UMRN202600380,CUST-3380,Axis Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-10-27 14:19,,Pending Partner Bank,24.0,45.5
+ESC-5119,NACH-20260711,UMRN202600397,CUST-3397,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-22 16:31,2026-09-23 08:29,Resolved,48.0,16.0
+ESC-5120,NACH-20260720,UMRN202600206,CUST-3206,HDFC Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-03 14:29,2026-10-04 19:32,Resolved,48.0,29.0
+ESC-5121,NACH-20260723,UMRN202600172,CUST-3172,SBI,AC01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-08-22 09:45,2026-08-23 12:35,Resolved,48.0,26.8
+ESC-5122,NACH-20260729,UMRN202600139,CUST-3139,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-12 13:21,2026-10-13 11:36,Resolved,48.0,22.2
+ESC-5123,NACH-20260738,UMRN202600139,CUST-3139,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-05 12:53,2026-09-06 11:20,Resolved,48.0,22.5
+ESC-5124,NACH-20260740,UMRN202600256,CUST-3256,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-21 14:42,2026-09-22 09:01,Resolved,48.0,18.3
+ESC-5125,NACH-20260747,UMRN202600232,CUST-3232,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-16 13:29,2026-10-18 02:21,Resolved,48.0,36.9
+ESC-5126,NACH-20260756,UMRN202600113,CUST-3113,SBI,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-01 16:08,2026-09-02 17:43,Resolved,48.0,25.6
+ESC-5127,NACH-20260760,UMRN202600147,CUST-3147,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-08-27 15:26,2026-08-28 15:49,Resolved,24.0,24.4
+ESC-5128,NACH-20260762,UMRN202600053,CUST-3053,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-22 10:35,2026-08-23 23:38,Resolved,48.0,37.0
+ESC-5129,NACH-20260765,UMRN202600350,CUST-3350,SBI,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-31 09:50,2026-09-02 01:08,Resolved,48.0,39.3
+ESC-5130,NACH-20260766,UMRN202600305,CUST-3305,SBI,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-31 17:25,2026-09-03 04:08,Resolved,48.0,58.7
+ESC-5131,NACH-20260774,UMRN202600088,CUST-3088,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-06 11:48,2026-09-06 22:52,Resolved,48.0,11.1
+ESC-5132,NACH-20260775,UMRN202600371,CUST-3371,SBI,SL01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-25 17:47,2026-10-27 12:51,Resolved,48.0,43.1
+ESC-5133,NACH-20260778,UMRN202600086,CUST-3086,Yes Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-08-16 11:05,2026-08-16 14:05,Resolved,24.0,3.0
+ESC-5134,NACH-20260783,UMRN202600046,CUST-3046,Yes Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-09-29 16:57,2026-09-30 12:23,Resolved,24.0,19.4
+ESC-5135,NACH-20260792,UMRN202600144,CUST-3144,Axis Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-25 14:04,2026-10-26 22:09,Resolved,48.0,32.1
+ESC-5136,NACH-20260801,UMRN202600397,CUST-3397,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-25 12:04,2026-08-27 00:59,Resolved,48.0,36.9
+ESC-5137,NACH-20260810,UMRN202600279,CUST-3279,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-10 18:54,2026-10-13 10:24,Resolved,48.0,63.5
+ESC-5138,NACH-20260814,UMRN202600307,CUST-3307,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-01 11:30,2026-09-02 18:34,Resolved,48.0,31.1
+ESC-5139,NACH-20260819,UMRN202600139,CUST-3139,Axis Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-10-11 16:25,2026-10-12 21:12,Resolved,24.0,28.8
+ESC-5140,NACH-20260822,UMRN202600019,CUST-3019,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-27 16:49,2026-09-29 01:58,Resolved,48.0,33.2
+ESC-5141,NACH-20260828,UMRN202600269,CUST-3269,HDFC Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-20 13:37,2026-08-21 16:33,Resolved,48.0,26.9
+ESC-5142,NACH-20260835,UMRN202600356,CUST-3356,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-26 17:04,2026-10-27 10:01,Resolved,48.0,17.0
+ESC-5143,NACH-20260846,UMRN202600047,CUST-3047,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-13 08:40,2026-09-14 17:30,Resolved,48.0,32.8
+ESC-5144,NACH-20260850,UMRN202600279,CUST-3279,Axis Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-30 16:43,2026-10-01 08:13,Resolved,48.0,15.5
+ESC-5145,NACH-20260856,UMRN202600287,CUST-3287,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-13 16:12,2026-10-13 23:48,Resolved,48.0,7.6
+ESC-5146,NACH-20260864,UMRN202600269,CUST-3269,HDFC Bank,AC01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-06 12:57,2026-10-07 11:17,Resolved,48.0,22.3
+ESC-5147,NACH-20260871,UMRN202600287,CUST-3287,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-10 13:24,2026-10-12 18:03,Resolved,48.0,52.7
+ESC-5148,NACH-20260873,UMRN202600018,CUST-3018,HDFC Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-18 11:34,2026-09-19 08:55,Resolved,48.0,21.3
+ESC-5149,NACH-20260882,UMRN202600047,CUST-3047,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-25 12:34,2026-10-26 16:57,Resolved,48.0,28.4
+ESC-5150,NACH-20260890,UMRN202600034,CUST-3034,Kotak Mahindra,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-15 16:04,2026-10-17 04:38,Resolved,48.0,36.6
+ESC-5151,NACH-20260891,UMRN202600047,CUST-3047,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-15 17:54,2026-08-17 12:57,Resolved,48.0,43.0
+ESC-5152,NACH-20260899,UMRN202600053,CUST-3053,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-12 17:05,2026-10-13 10:55,Resolved,48.0,17.8
+ESC-5153,NACH-20260900,UMRN202600307,CUST-3307,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-16 17:01,2026-09-17 15:53,Resolved,48.0,22.9
+ESC-5154,NACH-20260902,UMRN202600308,CUST-3308,HDFC Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-12 14:05,2026-10-13 20:17,Resolved,48.0,30.2
+ESC-5155,NACH-20260906,UMRN202600198,CUST-3198,Kotak Mahindra,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-28 13:05,,Awaiting Customer Action,48.0,47.3
+ESC-5156,NACH-20260916,UMRN202600350,CUST-3350,SBI,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-16 16:38,2026-08-17 16:45,Resolved,48.0,24.1
+ESC-5157,NACH-20260918,UMRN202600224,CUST-3224,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-25 14:48,2026-10-26 11:56,Resolved,48.0,21.1
+ESC-5158,NACH-20260930,UMRN202600231,CUST-3231,HDFC Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-22 11:20,2026-09-22 15:20,Resolved,48.0,4.0
+ESC-5159,NACH-20260934,UMRN202600256,CUST-3256,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-22 12:22,2026-10-24 06:12,Resolved,48.0,41.8
+ESC-5160,NACH-20260936,UMRN202600397,CUST-3397,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-24 12:25,2026-08-25 22:14,Resolved,48.0,33.8
+ESC-5161,NACH-20260944,UMRN202600356,CUST-3356,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-29 11:26,2026-09-29 22:42,Resolved,48.0,11.3
+ESC-5162,NACH-20260945,UMRN202600113,CUST-3113,SBI,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-18 15:56,2026-09-19 22:44,Resolved,48.0,30.8
+ESC-5163,NACH-20260952,UMRN202600224,CUST-3224,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-30 16:45,2026-10-01 11:24,Resolved,48.0,18.6
+ESC-5164,NACH-20260954,UMRN202600307,CUST-3307,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-07 10:31,2026-09-08 16:03,Resolved,48.0,29.5
+ESC-5165,NACH-20260959,UMRN202600172,CUST-3172,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-09-07 12:30,2026-09-08 16:03,Resolved,24.0,27.5
+ESC-5166,NACH-20260963,UMRN202600016,CUST-3016,HDFC Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-27 10:22,2026-09-28 22:38,Resolved,48.0,36.3
+ESC-5167,NACH-20260972,UMRN202600224,CUST-3224,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-21 10:27,2026-08-22 12:03,Resolved,48.0,25.6
+ESC-5168,NACH-20260973,UMRN202600052,CUST-3052,HDFC Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-28 16:53,2026-09-30 12:32,Resolved,48.0,43.6
+ESC-5169,NACH-20260990,UMRN202600113,CUST-3113,SBI,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-22 13:33,2026-09-24 10:48,Resolved,48.0,45.3
+ESC-5170,NACH-20260999,UMRN202600144,CUST-3144,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-27 13:26,2026-09-29 05:36,Resolved,48.0,40.2
+ESC-5171,NACH-20261008,UMRN202600307,CUST-3307,Kotak Mahindra,AC01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-18 15:52,2026-09-19 16:14,Resolved,48.0,24.4
+ESC-5172,NACH-20261017,UMRN202600047,CUST-3047,Axis Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-10-13 18:44,2026-10-14 18:39,Resolved,24.0,23.9
+ESC-5173,NACH-20261020,UMRN202600053,CUST-3053,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-23 11:09,2026-10-24 23:27,Resolved,48.0,36.3
+ESC-5174,NACH-20261021,UMRN202600023,CUST-3023,HDFC Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-08-30 16:36,2026-08-30 20:23,Resolved,24.0,3.8
+ESC-5175,NACH-20261026,UMRN202600016,CUST-3016,HDFC Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-09 11:15,2026-10-11 05:15,Resolved,48.0,42.0
+ESC-5176,NACH-20261039,UMRN202600124,CUST-3124,ICICI Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-08-24 12:35,2026-08-25 05:05,Resolved,24.0,16.5
+ESC-5177,NACH-20261043,UMRN202600027,CUST-3027,Yes Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-12 10:49,2026-10-13 20:07,Resolved,48.0,33.3
+ESC-5178,NACH-20261051,UMRN202600256,CUST-3256,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-23 13:02,2026-10-24 04:45,Resolved,48.0,15.7
+ESC-5179,NACH-20261062,UMRN202600139,CUST-3139,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-07 17:16,2026-10-08 04:39,Resolved,48.0,11.4
+ESC-5180,NACH-20261069,UMRN202600224,CUST-3224,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-27 15:45,,Awaiting Customer Action,48.0,24.6
+ESC-5181,NACH-20261071,UMRN202600256,CUST-3256,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-27 10:42,2026-08-29 04:04,Resolved,48.0,41.4
+ESC-5182,NACH-20261073,UMRN202600214,CUST-3214,Yes Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-09-04 11:14,2026-09-05 06:07,Resolved,24.0,18.9
+ESC-5183,NACH-20261078,UMRN202600253,CUST-3253,ICICI Bank,AC01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-08-20 13:37,2026-08-22 04:55,Resolved,48.0,39.3
+ESC-5184,NACH-20261083,UMRN202600139,CUST-3139,Axis Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-08-16 17:33,2026-08-18 11:19,Resolved,48.0,41.8
+ESC-5185,NACH-20261089,UMRN202600019,CUST-3019,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-16 14:01,2026-10-18 12:42,Resolved,48.0,46.7
+ESC-5186,NACH-20261107,UMRN202600397,CUST-3397,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-23 10:01,2026-08-24 05:49,Resolved,48.0,19.8
+ESC-5187,NACH-20261111,UMRN202600355,CUST-3355,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-09-17 17:07,2026-09-18 21:50,Resolved,24.0,28.7
+ESC-5188,NACH-20261112,UMRN202600379,CUST-3379,Yes Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-10-22 15:49,2026-10-23 03:29,Resolved,24.0,11.7
+ESC-5189,NACH-20261114,UMRN202600224,CUST-3224,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-08 12:15,2026-09-09 10:39,Resolved,48.0,22.4
+ESC-5190,NACH-20261116,UMRN202600256,CUST-3256,Kotak Mahindra,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-10-16 11:18,2026-10-17 07:27,Resolved,24.0,20.1
+ESC-5191,NACH-20261125,UMRN202600356,CUST-3356,Kotak Mahindra,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-01 13:14,2026-10-01 19:25,Resolved,48.0,6.2
+ESC-5192,NACH-20261127,UMRN202600058,CUST-3058,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-10-05 10:28,2026-10-05 13:28,Resolved,24.0,3.0
+ESC-5193,NACH-20261134,UMRN202600232,CUST-3232,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-24 12:47,2026-09-25 06:37,Resolved,48.0,17.8
+ESC-5194,NACH-20261140,UMRN202600251,CUST-3251,HDFC Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-08-31 12:10,2026-08-31 16:10,Resolved,48.0,4.0
+ESC-5195,NACH-20261143,UMRN202600305,CUST-3305,SBI,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-03 10:41,2026-10-04 18:35,Resolved,48.0,31.9
+ESC-5196,NACH-20261144,UMRN202600055,CUST-3055,SBI,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-21 15:02,2026-09-22 04:40,Resolved,48.0,13.6
+ESC-5197,NACH-20261145,UMRN202600354,CUST-3354,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-09-17 11:46,2026-09-18 13:56,Resolved,24.0,26.2
+ESC-5198,NACH-20261149,UMRN202600078,CUST-3078,HDFC Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-10-12 13:48,2026-10-12 16:48,Resolved,24.0,3.0
+ESC-5199,NACH-20261151,UMRN202600271,CUST-3271,SBI,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-13 16:52,2026-09-14 21:08,Resolved,48.0,28.3
+ESC-5200,NACH-20261152,UMRN202600279,CUST-3279,Axis Bank,SL01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-29 17:36,2026-10-01 03:30,Resolved,48.0,33.9
+ESC-5201,NACH-20261157,UMRN202600279,CUST-3279,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-22 16:49,2026-10-22 21:51,Resolved,48.0,5.0
+ESC-5202,NACH-20261158,UMRN202600120,CUST-3120,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-11 10:37,2026-10-12 05:02,Resolved,48.0,18.4
+ESC-5203,NACH-20261161,UMRN202600019,CUST-3019,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-20 13:54,2026-08-21 17:45,Resolved,48.0,27.9
+ESC-5204,NACH-20261170,UMRN202600344,CUST-3344,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-16 14:13,2026-08-17 18:15,Resolved,48.0,28.0
+ESC-5205,NACH-20261176,UMRN202600053,CUST-3053,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-09 15:27,2026-10-10 11:26,Resolved,48.0,20.0
+ESC-5206,NACH-20261181,UMRN202600269,CUST-3269,HDFC Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-29 12:36,2026-10-01 20:38,Resolved,48.0,56.0
+ESC-5207,NACH-20261185,UMRN202600194,CUST-3194,HDFC Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-26 09:31,2026-09-26 13:31,Resolved,48.0,4.0
+ESC-5208,NACH-20261188,UMRN202600113,CUST-3113,SBI,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-22 15:27,2026-09-23 17:19,Resolved,48.0,25.9
+ESC-5209,NACH-20261197,UMRN202600389,CUST-3389,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-27 16:14,2026-08-29 11:54,Resolved,48.0,43.7
+ESC-5210,NACH-20261200,UMRN202600263,CUST-3263,Yes Bank,SL01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-16 13:54,2026-10-18 09:14,Resolved,48.0,43.3
+ESC-5211,NACH-20261206,UMRN202600046,CUST-3046,Yes Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-19 15:32,2026-08-20 23:56,Resolved,48.0,32.4
+ESC-5212,NACH-20261208,UMRN202600088,CUST-3088,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-26 17:58,2026-09-28 15:53,Resolved,48.0,45.9
+ESC-5213,NACH-20261215,UMRN202600305,CUST-3305,SBI,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-18 17:25,2026-09-18 21:25,Resolved,48.0,4.0
+ESC-5214,NACH-20261222,UMRN202600390,CUST-3390,ICICI Bank,SL01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-27 17:47,2026-09-28 20:12,Resolved,48.0,26.4
+ESC-5215,NACH-20261233,UMRN202600337,CUST-3337,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-14 17:57,2026-10-15 20:32,Resolved,48.0,26.6
+ESC-5216,NACH-20261241,UMRN202600060,CUST-3060,Yes Bank,AC01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-08-24 12:21,2026-08-26 15:49,Resolved,48.0,51.5
+ESC-5217,NACH-20261242,UMRN202600350,CUST-3350,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-10-11 17:40,2026-10-13 08:26,Resolved,24.0,38.8
+ESC-5218,NACH-20261249,UMRN202600373,CUST-3373,HDFC Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-19 10:21,2026-10-21 01:18,Resolved,48.0,39.0
+ESC-5219,NACH-20261251,UMRN202600350,CUST-3350,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-09-29 09:46,2026-09-30 05:19,Resolved,24.0,19.5
+ESC-5220,NACH-20261260,UMRN202600350,CUST-3350,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-08-17 11:18,2026-08-18 07:27,Resolved,24.0,20.2
+ESC-5221,NACH-20261265,UMRN202600120,CUST-3120,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-09 11:46,2026-10-10 10:06,Resolved,48.0,22.3
+ESC-5222,NACH-20261269,UMRN202600269,CUST-3269,HDFC Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-24 12:31,2026-09-26 06:54,Resolved,48.0,42.4
+ESC-5223,NACH-20261271,UMRN202600198,CUST-3198,Kotak Mahindra,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-08-24 16:42,2026-08-26 21:48,Resolved,48.0,53.1
+ESC-5224,NACH-20261278,UMRN202600198,CUST-3198,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-30 14:38,2026-08-31 00:26,Resolved,48.0,9.8
+ESC-5225,NACH-20261285,UMRN202600232,CUST-3232,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-16 10:57,2026-10-17 18:44,Resolved,48.0,31.8
+ESC-5226,NACH-20261287,UMRN202600356,CUST-3356,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-19 12:31,2026-10-21 04:07,Resolved,48.0,39.6
+ESC-5227,NACH-20261296,UMRN202600256,CUST-3256,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-16 15:18,2026-09-17 10:26,Resolved,48.0,19.1
+ESC-5228,NACH-20261298,UMRN202600256,CUST-3256,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-12 17:15,2026-10-13 07:31,Resolved,48.0,14.3
+ESC-5229,NACH-20261314,UMRN202600305,CUST-3305,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-10-21 17:22,2026-10-23 00:44,Resolved,24.0,31.4
+ESC-5230,NACH-20261321,UMRN202600348,CUST-3348,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-10-11 14:03,2026-10-12 02:25,Resolved,24.0,12.4
+ESC-5231,NACH-20261322,UMRN202600192,CUST-3192,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-10-10 11:48,2026-10-11 17:58,Resolved,24.0,30.2
+ESC-5232,NACH-20261329,UMRN202600088,CUST-3088,Kotak Mahindra,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-20 14:07,2026-09-21 02:27,Resolved,48.0,12.3
+ESC-5233,NACH-20261332,UMRN202600019,CUST-3019,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-22 13:36,2026-10-23 23:55,Resolved,48.0,34.3
+ESC-5234,NACH-20261341,UMRN202600389,CUST-3389,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-10 14:24,2026-10-11 20:52,Resolved,48.0,30.5
+ESC-5235,NACH-20261342,UMRN202600113,CUST-3113,SBI,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-29 17:23,2026-09-30 06:40,Resolved,48.0,13.3
+ESC-5236,NACH-20261346,UMRN202600300,CUST-3300,Yes Bank,AC01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-15 10:46,2026-10-17 05:58,Resolved,48.0,43.2
+ESC-5237,NACH-20261349,UMRN202600053,CUST-3053,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-04 14:59,2026-10-04 18:59,Resolved,48.0,4.0
+ESC-5238,NACH-20261350,UMRN202600356,CUST-3356,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-22 14:54,2026-09-24 01:01,Resolved,48.0,34.1
+ESC-5239,NACH-20261359,UMRN202600271,CUST-3271,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-09-18 15:46,2026-09-20 00:28,Resolved,24.0,32.7
+ESC-5240,NACH-20261362,UMRN202600397,CUST-3397,Axis Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-09-08 10:21,2026-09-09 12:45,Resolved,24.0,26.4
+ESC-5241,NACH-20261365,UMRN202600062,CUST-3062,ICICI Bank,SL01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-05 15:47,2026-09-06 06:54,Resolved,48.0,15.1
+ESC-5242,NACH-20261368,UMRN202600019,CUST-3019,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-22 15:31,2026-09-23 11:27,Resolved,48.0,19.9
+ESC-5243,NACH-20261370,UMRN202600305,CUST-3305,SBI,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-06 17:05,2026-10-08 11:59,Resolved,48.0,42.9
+ESC-5244,NACH-20261373,UMRN202600307,CUST-3307,Kotak Mahindra,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-29 14:00,2026-09-30 21:36,Resolved,48.0,31.6
+ESC-5245,NACH-20261377,UMRN202600344,CUST-3344,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-27 11:02,2026-08-28 02:34,Resolved,48.0,15.5
+ESC-5246,NACH-20261386,UMRN202600305,CUST-3305,SBI,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-08-25 13:28,2026-08-26 09:34,Resolved,24.0,20.1
+ESC-5247,NACH-20261387,UMRN202600299,CUST-3299,HDFC Bank,AC01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-20 16:13,2026-09-21 17:39,Resolved,48.0,25.4
+ESC-5248,NACH-20261395,UMRN202600337,CUST-3337,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-06 16:55,2026-09-07 04:17,Resolved,48.0,11.4
+ESC-5249,NACH-20261404,UMRN202600307,CUST-3307,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-22 15:40,2026-09-23 15:27,Resolved,48.0,23.8
+ESC-5250,NACH-20261409,UMRN202600220,CUST-3220,ICICI Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-08-15 16:59,2026-08-16 07:24,Resolved,24.0,14.4
+ESC-5251,NACH-20261410,UMRN202600224,CUST-3224,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-16 14:18,2026-09-17 19:49,Resolved,48.0,29.5
+ESC-5252,NACH-20261413,UMRN202600269,CUST-3269,HDFC Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-03 11:59,2026-10-03 22:51,Resolved,48.0,10.9
+ESC-5253,NACH-20261429,UMRN202600344,CUST-3344,ICICI Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-08-27 14:04,2026-08-28 07:13,Resolved,48.0,17.1
+ESC-5254,NACH-20261440,UMRN202600206,CUST-3206,HDFC Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-20 12:33,2026-10-21 16:49,Resolved,48.0,28.3
+ESC-5255,NACH-20261445,UMRN202600269,CUST-3269,HDFC Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-30 16:13,2026-08-31 07:05,Resolved,48.0,14.9
+ESC-5256,NACH-20261449,UMRN202600088,CUST-3088,Kotak Mahindra,SL01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-28 15:25,2026-10-29 10:26,Resolved,48.0,19.0
+ESC-5257,NACH-20261458,UMRN202600053,CUST-3053,ICICI Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-19 13:25,2026-10-20 13:33,Resolved,48.0,24.1
+ESC-5258,NACH-20261459,UMRN202600117,CUST-3117,Yes Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-08-31 16:13,2026-09-01 15:09,Resolved,48.0,22.9
+ESC-5259,NACH-20261467,UMRN202600198,CUST-3198,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-20 15:07,2026-08-21 23:43,Resolved,48.0,32.6
+ESC-5260,NACH-20261472,UMRN202600358,CUST-3358,ICICI Bank,AC01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-09 16:33,2026-09-11 15:34,Resolved,48.0,47.0
+ESC-5261,NACH-20261474,UMRN202600279,CUST-3279,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-10 13:50,2026-09-11 10:32,Resolved,48.0,20.7
+ESC-5262,NACH-20261476,UMRN202600356,CUST-3356,Kotak Mahindra,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-08-19 16:32,2026-08-20 20:04,Resolved,48.0,27.5
+ESC-5263,NACH-20261483,UMRN202600144,CUST-3144,Axis Bank,MS03,Partner Bank Technical Issue (Retry Eligible),Bank Tech Desk,2026-10-05 12:47,2026-10-05 16:43,Resolved,24.0,3.9
+ESC-5264,NACH-20261485,UMRN202600279,CUST-3279,Axis Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-09-15 14:02,2026-09-15 23:03,Resolved,48.0,9.0
+ESC-5265,NACH-20261486,UMRN202600162,CUST-3162,SBI,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-10-14 12:11,2026-10-15 17:51,Resolved,48.0,29.7
+ESC-5266,NACH-20261492,UMRN202600188,CUST-3188,Yes Bank,MD01,Mandate Re-registration Required (Hard Bounce),Customer Mandate Ops,2026-09-12 11:38,2026-09-12 15:38,Resolved,48.0,4.0
+ESC-5267,NACH-20261494,UMRN202600016,CUST-3016,HDFC Bank,AM04,Customer Actionable (Soft Bounce),Customer Mandate Ops,2026-10-05 10:49,2026-10-07 02:19,Resolved,48.0,39.5
